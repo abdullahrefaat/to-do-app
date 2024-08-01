@@ -1,3 +1,5 @@
 pray
 play
 clean
+play football
+play tennis
