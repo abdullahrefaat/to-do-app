@@ -2,4 +2,9 @@ pray
 play
 clean
 play football
-play tennis
+study
+fix
+read a novel
+wash
+study
+read a book
