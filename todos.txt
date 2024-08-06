@@ -1,10 +1,4 @@
 pray
 play
 clean
-play football
-study
 fix
-read a novel
-wash
-study
-read a book
